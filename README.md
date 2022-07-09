@@ -1,4 +1,3 @@
-# Stochastic-Unlabeled-Data-
 EM algorithm &amp; mixture density functions
 
 PARTA:Develop and test an R function that evaluates a sequence of samples from a mixture of 
